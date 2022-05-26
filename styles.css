@@ -68,3 +68,9 @@ i {
 i:hover {
   transform: rotate(180deg);
 }
+
+@media only screen and (max-width: 495px) {
+  .input-box {
+    width: 25rem;
+  }
+}
